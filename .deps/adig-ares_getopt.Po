@@ -1,0 +1,91 @@
+adig-ares_getopt.o: ares_getopt.c \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include-fixed/stdio.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/cdefs.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/cdefs_elf.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/android/api-level.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stddef.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stdint.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/stdint.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/_types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/machine/_types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/_wchar_limits.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/posix_types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/stddef.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/compiler.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include-fixed/asm/posix_types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/features.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/posix_types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/posix_types_32.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/types.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/machine/kernel.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/sysmacros.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stdarg.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/stdlib.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/string.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/malloc.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/alloca.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/strings.h \
+ /home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/memory.h \
+ ares_getopt.h
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include-fixed/stdio.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/cdefs.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/cdefs_elf.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/android/api-level.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stddef.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stdint.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/stdint.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/_types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/machine/_types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/_wchar_limits.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/posix_types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/stddef.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/compiler.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include-fixed/asm/posix_types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/features.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/posix_types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/posix_types_32.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/asm/types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/linux/types.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/machine/kernel.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/sys/sysmacros.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/bin/../lib/gcc/i686-linux-android/4.6/include/stdarg.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/stdlib.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/string.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/malloc.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/alloca.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/strings.h:
+
+/home/miguel/workspace/cbm_app/ramos_tablet/x86-4.6/sysroot/usr/include/memory.h:
+
+ares_getopt.h:
